@@ -19,3 +19,5 @@ At line:1 char:1
     + CategoryInfo          : SecurityError: (:) [], PSSecurityException
     + FullyQualifiedErrorId : UnauthorizedAccess
 ```
+## pipenv practice
+https://pythonguidecn.readthedocs.io/zh/latest/dev/virtualenvs.html
