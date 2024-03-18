@@ -21,3 +21,5 @@ At line:1 char:1
 ```
 ## pipenv practice
 https://pythonguidecn.readthedocs.io/zh/latest/dev/virtualenvs.html
+# commands
+- [x] pip freeze > requirements.txt, 将当前虚拟环境中的所有包以及版本记录在requirements.txt中
