@@ -21,5 +21,7 @@ At line:1 char:1
 ```
 ## pipenv practice
 https://pythonguidecn.readthedocs.io/zh/latest/dev/virtualenvs.html
+## virtualenv practice
+virtualenv是cmrc-testing项目原来的用的虚拟环境管理策略: https://zhuanlan.zhihu.com/p/60647332
 # commands
 - [x] pip freeze > requirements.txt, 将当前虚拟环境中的所有包以及版本记录在requirements.txt中
